@@ -10,6 +10,8 @@ trim_trailing_whitespace = true
 
 [*.ts]
 quote_type = single
+"eslint.format.enable": true
+"editor.formatOnSave": true
 
 [*.md]
 max_line_length = off
